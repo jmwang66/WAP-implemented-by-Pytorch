@@ -7,7 +7,7 @@ Install Pytorch GPU version (0.4.0)
 
 # Usage
 For training, Run:  
-`train.sh `
+`train.sh`  
 For testing, Run:  
-`test.sh `
+`test.sh`
 
